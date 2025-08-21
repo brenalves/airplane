@@ -16,6 +16,7 @@
 #define MENU_BTN6_PIN 32
 
 #define MENU_BUTTON_DEBOUNCE_TIME 200
+#define MENU_UPDATE_TELEMETRY_RATE 500
 
 #define MENU_STS_SCROLL_COUNT 2
 #define MENU_NAV_SCROLL_COUNT 2
@@ -55,4 +56,5 @@ private:
     int m_scrollStep;
 
     unsigned long m_lastBounceMillis;
+    unsigned long m_lastTelemetryMillis;
 };
