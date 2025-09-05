@@ -1,4 +1,4 @@
-26645152433749559
+26646909712638725
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106267,6 +106267,13 @@ ESP32_DevKit
 30
 30
 airplane_foots
+F18
+
+
+0
+0
+0
+airplane_foots
 MPU6050_GY521
 
 
@@ -106286,7 +106293,7 @@ SD_Card_Module
 
 0
 16
-16
+8
 airplane_foots
 nRF24L01+
 
