@@ -1,4 +1,4 @@
-26659210673113903
+26671084108278959
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106281,6 +106281,13 @@ F18
 0
 0
 airplane_foots
+Joystick_Hall_Ginfull
+
+
+0
+10
+5
+airplane_foots
 LCD_Display_20x4
 
 
@@ -106336,13 +106343,6 @@ Toggle_Switch
 0
 3
 3
-airplane_foots
-XDCR_COM-09032
-
-
-0
-14
-14
 airplane_foots
 nRF24L01+
 
