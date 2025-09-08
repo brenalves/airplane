@@ -7625,7 +7625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 20.32 168.91 0)
 			(effects
 				(font
@@ -7702,7 +7702,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
 			(at 34.29 48.26 0)
 			(effects
 				(font
@@ -7838,7 +7838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 30.226 161.544 90)
 			(effects
 				(font
@@ -7972,7 +7972,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 151.13 173.99 0)
 			(effects
 				(font
@@ -8048,7 +8048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 56.896 161.544 90)
 			(effects
 				(font
@@ -8076,10 +8076,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "57a5c3c9-ded8-4fa7-bafa-6a45efca7b90")
+			(uuid "57a5c3c9-ded8-4fa7-bafa-6a45efca7b91")
 		)
 		(pin "2"
-			(uuid "44be5b2e-266d-4f48-bdb3-ae46b90dbce6")
+			(uuid "44be5b2e-266d-4f48-bdb3-ae46b90dbce7")
 		)
 		(instances
 			(project ""
@@ -8118,7 +8118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-10_3x3mm_P0.5mm"
+		(property "Footprint" "airplane_foots:ADS1115"
 			(at 107.95 59.69 0)
 			(effects
 				(font
@@ -8210,7 +8210,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 172.72 114.3 0)
 			(effects
 				(font
@@ -8284,7 +8284,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane_foots:XDCR_COM-09032"
 			(at 77.47 46.99 0)
 			(effects
 				(font
@@ -8361,7 +8361,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 193.04 130.81 0)
 			(effects
 				(font
@@ -8435,7 +8435,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 172.72 97.79 0)
 			(effects
 				(font
@@ -8511,7 +8511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 21.336 161.544 90)
 			(effects
 				(font
@@ -8539,10 +8539,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "57a5c3c9-ded8-4fa7-bafa-6a45efca7b90")
+			(uuid "57a5c3c9-ded8-4fa7-bafa-6a45efca7b92")
 		)
 		(pin "2"
-			(uuid "44be5b2e-266d-4f48-bdb3-ae46b90dbce6")
+			(uuid "44be5b2e-266d-4f48-bdb3-ae46b90dbce8")
 		)
 		(instances
 			(project ""
@@ -8581,7 +8581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 38.1 168.91 0)
 			(effects
 				(font
@@ -8618,10 +8618,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "8bfbe951-607e-44ed-85cc-15019984ce29")
+			(uuid "8bfbe951-607e-44ed-85cc-15019984ce2a")
 		)
 		(pin "1"
-			(uuid "bdb0823c-9eae-4b2e-bb68-7627009ea39e")
+			(uuid "bdb0823c-9eae-4b2e-bb68-7627009ea39f")
 		)
 		(instances
 			(project ""
@@ -8661,7 +8661,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane_foots:LCD_Display_20x4"
 			(at 260.35 45.72 0)
 			(effects
 				(font
@@ -8771,7 +8771,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 193.04 97.79 0)
 			(effects
 				(font
@@ -8799,16 +8799,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "a61df876-0963-4efc-bdad-d12fc4deb007")
+			(uuid "a61df876-0963-4efc-bdad-d12fc4deb008")
 		)
 		(pin "4"
-			(uuid "46cc5e4f-34b4-480a-889b-9a482fcc1822")
+			(uuid "46cc5e4f-34b4-480a-889b-9a482fcc1823")
 		)
 		(pin "3"
-			(uuid "ffbc9b71-9ef5-4956-88bd-ba7d295dbb98")
+			(uuid "ffbc9b71-9ef5-4956-88bd-ba7d295dbb99")
 		)
 		(pin "2"
-			(uuid "89e6632d-8e1d-42c6-88db-1c6e1e5d41d8")
+			(uuid "89e6632d-8e1d-42c6-88db-1c6e1e5d41d9")
 		)
 		(instances
 			(project ""
@@ -8911,7 +8911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 207.01 76.2 0)
 			(effects
 				(font
@@ -9118,7 +9118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 46.99 168.91 0)
 			(effects
 				(font
@@ -9155,10 +9155,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "8bfbe951-607e-44ed-85cc-15019984ce29")
+			(uuid "8bfbe951-607e-44ed-85cc-15019984ce2b")
 		)
 		(pin "1"
-			(uuid "bdb0823c-9eae-4b2e-bb68-7627009ea39e")
+			(uuid "bdb0823c-9eae-4b2e-bb68-7627009ea3a0")
 		)
 		(instances
 			(project ""
@@ -9261,7 +9261,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 172.72 130.81 0)
 			(effects
 				(font
@@ -9289,16 +9289,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "a61df876-0963-4efc-bdad-d12fc4deb007")
+			(uuid "a61df876-0963-4efc-bdad-d12fc4deb009")
 		)
 		(pin "4"
-			(uuid "46cc5e4f-34b4-480a-889b-9a482fcc1822")
+			(uuid "46cc5e4f-34b4-480a-889b-9a482fcc1824")
 		)
 		(pin "3"
-			(uuid "ffbc9b71-9ef5-4956-88bd-ba7d295dbb98")
+			(uuid "ffbc9b71-9ef5-4956-88bd-ba7d295dbb9a")
 		)
 		(pin "2"
-			(uuid "89e6632d-8e1d-42c6-88db-1c6e1e5d41d8")
+			(uuid "89e6632d-8e1d-42c6-88db-1c6e1e5d41da")
 		)
 		(instances
 			(project ""
@@ -9401,7 +9401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 134.62 173.99 0)
 			(effects
 				(font
@@ -9429,16 +9429,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "c1ac5c37-e1c4-4f55-9c34-bee89e71792e")
+			(uuid "c1ac5c37-e1c4-4f55-9c34-bee89e71792f")
 		)
 		(pin "3"
-			(uuid "26a5f202-a18a-4b8f-a884-4a3cafffe258")
+			(uuid "26a5f202-a18a-4b8f-a884-4a3cafffe259")
 		)
 		(pin "4"
-			(uuid "af632ed9-bcee-404a-8527-32a924f98228")
+			(uuid "af632ed9-bcee-404a-8527-32a924f98229")
 		)
 		(pin "1"
-			(uuid "4c3d09bc-6b49-4b23-abc0-212eb8d3dec9")
+			(uuid "4c3d09bc-6b49-4b23-abc0-212eb8d3deca")
 		)
 		(instances
 			(project ""
@@ -9541,7 +9541,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane_foots:ESP32_DevKit"
 			(at 45.72 101.6 0)
 			(effects
 				(font
@@ -9693,7 +9693,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 134.62 156.21 0)
 			(effects
 				(font
@@ -9721,16 +9721,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "c1ac5c37-e1c4-4f55-9c34-bee89e71792e")
+			(uuid "c1ac5c37-e1c4-4f55-9c34-bee89e717930")
 		)
 		(pin "3"
-			(uuid "26a5f202-a18a-4b8f-a884-4a3cafffe258")
+			(uuid "26a5f202-a18a-4b8f-a884-4a3cafffe25a")
 		)
 		(pin "4"
-			(uuid "af632ed9-bcee-404a-8527-32a924f98228")
+			(uuid "af632ed9-bcee-404a-8527-32a924f9822a")
 		)
 		(pin "1"
-			(uuid "4c3d09bc-6b49-4b23-abc0-212eb8d3dec9")
+			(uuid "4c3d09bc-6b49-4b23-abc0-212eb8d3decb")
 		)
 		(instances
 			(project ""
@@ -9834,7 +9834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 115.57 161.29 0)
 			(effects
 				(font
@@ -9934,7 +9934,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f25b20f7-dbe4-4311-a633-3a18288d7550")
+			(uuid "f25b20f7-dbe4-4311-a633-3a18288d7551")
 		)
 		(instances
 			(project ""
@@ -10066,7 +10066,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cc2a769a-ffaf-4a92-8722-b13699328bc8")
+			(uuid "cc2a769a-ffaf-4a92-8722-b13699328bc9")
 		)
 		(instances
 			(project ""
@@ -10105,7 +10105,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 39.116 161.544 90)
 			(effects
 				(font
@@ -10133,10 +10133,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "57a5c3c9-ded8-4fa7-bafa-6a45efca7b90")
+			(uuid "57a5c3c9-ded8-4fa7-bafa-6a45efca7b93")
 		)
 		(pin "2"
-			(uuid "44be5b2e-266d-4f48-bdb3-ae46b90dbce6")
+			(uuid "44be5b2e-266d-4f48-bdb3-ae46b90dbce9")
 		)
 		(instances
 			(project ""
@@ -10173,7 +10173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
 			(at 160.655 27.94 0)
 			(effects
 				(font
@@ -10246,7 +10246,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane_foots:Serial_I2C_Module"
 			(at 242.57 45.72 0)
 			(effects
 				(font
@@ -10435,7 +10435,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane_foots:XDCR_COM-09032"
 			(at 77.47 62.23 0)
 			(effects
 				(font
@@ -10514,7 +10514,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane_foots:Level_Shifter"
 			(at 157.48 69.85 0)
 			(effects
 				(font
@@ -10613,7 +10613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane_foots:nRF24L01+"
 			(at 77.47 166.37 0)
 			(effects
 				(font
@@ -10701,7 +10701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 167.64 27.94 0)
 			(effects
 				(font
@@ -10769,7 +10769,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane_foots:Potentiometer_PCB_Connector_3x5.08"
 			(at 44.45 135.89 0)
 			(effects
 				(font
@@ -11056,7 +11056,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 193.04 114.3 0)
 			(effects
 				(font
@@ -11084,16 +11084,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "a61df876-0963-4efc-bdad-d12fc4deb007")
+			(uuid "a61df876-0963-4efc-bdad-d12fc4deb00a")
 		)
 		(pin "4"
-			(uuid "46cc5e4f-34b4-480a-889b-9a482fcc1822")
+			(uuid "46cc5e4f-34b4-480a-889b-9a482fcc1825")
 		)
 		(pin "3"
-			(uuid "ffbc9b71-9ef5-4956-88bd-ba7d295dbb98")
+			(uuid "ffbc9b71-9ef5-4956-88bd-ba7d295dbb9b")
 		)
 		(pin "2"
-			(uuid "89e6632d-8e1d-42c6-88db-1c6e1e5d41d8")
+			(uuid "89e6632d-8e1d-42c6-88db-1c6e1e5d41db")
 		)
 		(instances
 			(project ""
@@ -11264,7 +11264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 55.88 168.91 0)
 			(effects
 				(font
@@ -11301,10 +11301,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "8bfbe951-607e-44ed-85cc-15019984ce29")
+			(uuid "8bfbe951-607e-44ed-85cc-15019984ce2c")
 		)
 		(pin "1"
-			(uuid "bdb0823c-9eae-4b2e-bb68-7627009ea39e")
+			(uuid "bdb0823c-9eae-4b2e-bb68-7627009ea3a1")
 		)
 		(instances
 			(project ""
@@ -11343,7 +11343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 48.006 161.544 90)
 			(effects
 				(font
@@ -11371,10 +11371,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "57a5c3c9-ded8-4fa7-bafa-6a45efca7b90")
+			(uuid "57a5c3c9-ded8-4fa7-bafa-6a45efca7b94")
 		)
 		(pin "2"
-			(uuid "44be5b2e-266d-4f48-bdb3-ae46b90dbce6")
+			(uuid "44be5b2e-266d-4f48-bdb3-ae46b90dbcea")
 		)
 		(instances
 			(project ""
@@ -11479,7 +11479,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 152.4 27.94 0)
 			(effects
 				(font
@@ -11507,10 +11507,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "39a3f4e3-327f-4cc0-86a7-50c67daf0f5b")
+			(uuid "39a3f4e3-327f-4cc0-86a7-50c67daf0f5c")
 		)
 		(pin "2"
-			(uuid "d2c22644-c5da-4857-ab17-13d99a293500")
+			(uuid "d2c22644-c5da-4857-ab17-13d99a293501")
 		)
 		(instances
 			(project ""
@@ -11549,7 +11549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 29.21 168.91 0)
 			(effects
 				(font
@@ -11586,10 +11586,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "8bfbe951-607e-44ed-85cc-15019984ce29")
+			(uuid "8bfbe951-607e-44ed-85cc-15019984ce2d")
 		)
 		(pin "1"
-			(uuid "bdb0823c-9eae-4b2e-bb68-7627009ea39e")
+			(uuid "bdb0823c-9eae-4b2e-bb68-7627009ea3a2")
 		)
 		(instances
 			(project ""
@@ -11656,7 +11656,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f079a5d1-24bf-475d-9941-5d17666cad73")
+			(uuid "f079a5d1-24bf-475d-9941-5d17666cad74")
 		)
 		(instances
 			(project ""
@@ -11723,7 +11723,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f25b20f7-dbe4-4311-a633-3a18288d7550")
+			(uuid "f25b20f7-dbe4-4311-a633-3a18288d7552")
 		)
 		(instances
 			(project ""
@@ -11759,7 +11759,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "airplane_foots:Toggle_Switch"
 			(at 46.99 45.72 0)
 			(effects
 				(font
@@ -11827,7 +11827,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 151.13 156.21 0)
 			(effects
 				(font
@@ -11855,16 +11855,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "c1ac5c37-e1c4-4f55-9c34-bee89e71792e")
+			(uuid "c1ac5c37-e1c4-4f55-9c34-bee89e717931")
 		)
 		(pin "3"
-			(uuid "26a5f202-a18a-4b8f-a884-4a3cafffe258")
+			(uuid "26a5f202-a18a-4b8f-a884-4a3cafffe25b")
 		)
 		(pin "4"
-			(uuid "af632ed9-bcee-404a-8527-32a924f98228")
+			(uuid "af632ed9-bcee-404a-8527-32a924f9822b")
 		)
 		(pin "1"
-			(uuid "4c3d09bc-6b49-4b23-abc0-212eb8d3dec9")
+			(uuid "4c3d09bc-6b49-4b23-abc0-212eb8d3decc")
 		)
 		(instances
 			(project ""

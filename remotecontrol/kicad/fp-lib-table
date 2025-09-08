@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "airplane_foots")(type "KiCad")(uri "${KIPRJMOD}/airplane_foots.pretty")(options "")(descr ""))
+)
